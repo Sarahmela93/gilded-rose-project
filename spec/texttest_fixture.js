@@ -1,4 +1,4 @@
-import {Shop, Standard, Ager, Legendary, Conjured } from "../src/main";
+import {Shop, Standard, Ager, Legendary, Conjured } from "../src/main.js";
 
 const items = []
 

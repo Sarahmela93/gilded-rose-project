@@ -21,12 +21,7 @@ export class Shop {
 }
 
 export class Legendary extends Item {
-  constructor(name, sellIn, quality) {
-    super(name, sellIn, quality)
-  }
-	updateQuality() {
-		return this;
-	}
+
 }
 
 export class Ager extends Item {
